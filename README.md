@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>打矢 アグスティン</h1>
   <h1>👋 Hi, I'm Agustin</h1>
   <p>
     <strong>Software Developer</strong> | Full-Stack Engineer | Cloud & Web Technologies
@@ -37,7 +38,7 @@
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&label=Learning)](https://golang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 
 **☁️ Database & Cloud**
 
