@@ -36,7 +36,7 @@
 
 **⚙️ Backend**
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 
